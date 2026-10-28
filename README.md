@@ -1,5 +1,5 @@
-# RR-T4 60FPS-16:9 and 32:9 Aspect Ratio Cheat #
-# Now with ultrawide!
+# RR-T4 60FPS-16:9 and Ultrawide Aspect Ratio Cheat #
+# Now with 21:9 and 32:9 ultrawide support!
 
 A port of the cheat originally for the JP version converted to work with US copies (SLUS-00797)
 
