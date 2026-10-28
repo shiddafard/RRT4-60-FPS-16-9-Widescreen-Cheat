@@ -1,4 +1,6 @@
-# RR-T4 60FPS-16:9 Widescreen Cheat
+# RR-T4 60FPS-16:9 and 32:9 Aspect Ratio Cheat #
+# Now with ultrawide!
+
 A port of the cheat originally for the JP version converted to work with US copies (SLUS-00797)
 
 # All credit should go to AEONG_AEONG on the GBAtemp forums for creating this patch in the first place. Without his work, this wouldn't be happening. #
